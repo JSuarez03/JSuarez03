@@ -53,7 +53,7 @@ Actualmente me encuentro en formación para aprender nuevas tecnologías en el �
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JSuarez03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura" alt="my Github Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSuarez03&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSuarez03&layout=compact&theme=aura)
 
 
 
