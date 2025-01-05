@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/ico
 ![Fondo Principal de Github](fondo.png)
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHducWd3OGM4YXd2cXllZnc1ejZrdGNwN3R0aDJ1cmVhZWdjOW42aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NeINOsLLPNP6U/giphy.gif" width="50"/>  Programador y Desarrollador de Software
-========================================================================================================================================
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 Soy estudiante de Ingeniería en Sistemas.
 Actualmente me encuentro en formación para aprender nuevas tecnologías en el área de Programación. Desde 2022 comienza aprendiendo lo básico de HTML5 y CSS3, mientras que en la universidad aprende a C++. Además, inició en el backend en 2023 con PHP y MySQL, y reforzaba mis conocimientos realizando proyectos. Después de indagar en diferentes ramas de la programación me gusta el desarrollo de aplicaciones móviles y Desarrollo Web Fronted.
